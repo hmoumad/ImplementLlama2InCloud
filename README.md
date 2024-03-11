@@ -3,14 +3,16 @@
 2- second step get your default API tokens.
 
 ## Create and activate your Venv
-1- create your virtual envirement : conda create --name Venv_Name python=Python_Vesion
-2- Open your virtual envirement : conda activate Venv_Name
+1- create your virtual envirement : 
+  ```conda create --name Venv_Name python=Python_Vesion```
+2- Open your virtual envirement : 
+  ```conda activate Venv_Name```
 
 ## Insallation dependencies
-1- pip install -U langchain
-2- pip install -U replicate
-3- pip install pillow
-4- pip install python-decouple
+1- Install Langchain : ```pip install -U langchain```
+2- Install Replicate : ```pip install -U replicate```
+3- Install Pillow : ```pip install pillow```
+4- Install python-decouple : ```pip install python-decouple```
 
 ## run your Code 
 there is two version :
