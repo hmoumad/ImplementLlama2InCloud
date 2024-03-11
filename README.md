@@ -3,10 +3,8 @@
 2. second step get your default API tokens.
 
 ## Create and activate your Venv
-1. create your virtual environment: 
-  ```conda create --name Venv_Name python=Python_Vesion```
-2. Open your virtual environment: <br>
-  ```conda activate Venv_Name```
+1. create your virtual environment: ```conda create --name Venv_Name python=Python_Vesion```
+2. Open your virtual environment: ```conda activate Venv_Name```<br>
 
 You can Also use Python to Create your Virtual enviroment 
 
