@@ -8,6 +8,8 @@
 2. Open your virtual environment: 
   ```conda activate Venv_Name```
 
+#You can Also use Python to Create your Virtual enviroment 
+
 ## Installation dependencies
 1. Install Langchain : ```pip install -U langchain```
 2. Install Replicate : ```pip install -U replicate```
