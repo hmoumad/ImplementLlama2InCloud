@@ -1,21 +1,21 @@
 ## Get Started
-1. First step : go to link "https://replicate.com/" and create account
+1. First step : go to the link "https://replicate.com/" and create an account
 2. second step get your default API tokens.
 
 ## Create and activate your Venv
-1. create your virtual envirement : 
+1. create your virtual environment: 
   ```conda create --name Venv_Name python=Python_Vesion```
-2. Open your virtual envirement : 
+2. Open your virtual environment: 
   ```conda activate Venv_Name```
 
-## Insallation dependencies
+## Installation dependencies
 1. Install Langchain : ```pip install -U langchain```
 2. Install Replicate : ```pip install -U replicate```
 3. Install Pillow : ```pip install pillow```
 4. Install python-decouple : ```pip install python-decouple```
 
 ## run your Code 
-there is two version :
-+ Llama-2-Cloud.py : for teste the Model in your terminal to run it use commande "python Llama-2-Cloud.py" make surethat your are in the right directory 
+there is two versions:
++ Llama-2-Cloud.py: To test the Model in your terminal to run it use the command ```python Llama-2-Cloud.py```, make sure that you are in the right directory 
 
-+ Version-Chat.py : used for communicate with your LLM using interface Streamlit to run it use commande "streamlit run Version-Chat.py".
++ Version-Chat.py: used for communicate with your LLM using the interface Streamlit to run it use the command ```streamlit run Version-Chat.py```.
