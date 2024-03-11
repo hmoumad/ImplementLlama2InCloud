@@ -5,10 +5,10 @@
 ## Create and activate your Venv
 1. create your virtual environment: 
   ```conda create --name Venv_Name python=Python_Vesion```
-2. Open your virtual environment: 
+2. Open your virtual environment: <br>
   ```conda activate Venv_Name```
 
-#You can Also use Python to Create your Virtual enviroment 
+You can Also use Python to Create your Virtual enviroment 
 
 ## Installation dependencies
 1. Install Langchain : ```pip install -U langchain```
